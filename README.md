@@ -8,7 +8,6 @@
 Python 3.7.9, Pygame 2.1.2, Pgzero 1.2.1, Numpy 1.21.6
 
 ## Звуки и изображения
-
 ### Music: 
 
 https://www.freesfx.co.uk/
